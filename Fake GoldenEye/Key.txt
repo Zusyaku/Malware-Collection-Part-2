@@ -1,0 +1,1 @@
+Enter any 32 bytes key like this and PC will be restored: 11111111111111111111111111111111
